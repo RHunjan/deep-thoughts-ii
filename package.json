@@ -1,7 +1,6 @@
 {
   "name": "mern-social-mediaa",
   "version": "1.0.0",
-  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -13,6 +12,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
-  }
+    "concurrently": "^5.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RHunjan/deep-thoughts-ii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RHunjan/deep-thoughts-ii/issues"
+  },
+  "homepage": "https://github.com/RHunjan/deep-thoughts-ii#readme",
+  "description": ""
 }
